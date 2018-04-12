@@ -22,5 +22,13 @@ public class MyInstrumentedTest {
         Context appContext = InstrumentationRegistry.getTargetContext();
 
         assertEquals("com.example.ncobb01.helloworld", appContext.getPackageName());
+
+
+
     }
+
+
+
+
+
 }
